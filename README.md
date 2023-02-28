@@ -37,7 +37,7 @@
 
 
 <h3 id='Interfaces'><b> Interfaces</b></h3>
-<hr>
+
 <br>
 
 - Administração
@@ -47,7 +47,7 @@
 <br> 
 
 <h3 id='Funcinonalidades'><b> Funcionalidades</b></h3>
-<hr>
+
 <br>
 <p align='justify'>&emsp; Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
 <br>
@@ -79,7 +79,7 @@
 <h2><b> Equipe</b></h2>
 <br>
 
-#  
+ 
 |     Desenvolvedor              |           GitHub             |       LinkedIn     |
 |--------------------------------|------------------------------|--------------------|
 |👩 Amanda S. Zírpolo|https://github.com/amandazirpolo|https://www.linkedin.com/in/amanda-zirpolo/|
